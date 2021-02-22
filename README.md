@@ -1,4 +1,4 @@
-# jwt-express-react-demo
+# node-react-demo
 
 A two part of demo with a frontend and api.
 
