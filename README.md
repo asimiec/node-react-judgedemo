@@ -3,8 +3,6 @@
 A two part of demo with a frontend and api.
 
 
-
-
 ## Functionality
 
 - Sign up
@@ -38,6 +36,17 @@ Features the following REST endpoints:
 
 
 ### Development
-Mongodb should be installed at machine with 27017 port enabled
+ - git clone https://github.com/asimiec/node-react-judgedemo.git
+## For backend node
+ - cd api
+ - Run 'npm i' for install modules
+ - Run `npm start` in `api/`, server will run at `http://localhost:8000`
+## For frontend react
+- cd frontend
+- Run 'npm i' for install modules
 - Run `npm start` in `frontend/`, server will run at `http://localhost:3000`
-- Run `npm start` in `backend/`, server will run at `http://localhost:8000`
+ 
+ 
+
+
+
