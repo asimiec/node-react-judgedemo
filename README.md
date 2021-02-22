@@ -22,7 +22,7 @@ Features the following REST endpoints:
     
 - /login
 
-    Logs in an existing user with a password
+    Logs in an existing user with username and password
     
 - **/me**
 
